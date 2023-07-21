@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Arun Raman Personal Website</title>
+        <link>http://arunraman.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 20 Jul 2023 18:16:34 -0700</lastBuildDate>
+            <atom:link href="http://arunraman.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Coming Soon</title>
+    <link>http://arunraman.github.io/posts/mypost/</link>
+    <pubDate>Thu, 20 Jul 2023 18:16:34 -0700</pubDate>
+    <author>Arun Raman</author>
+    <guid>http://arunraman.github.io/posts/mypost/</guid>
+    <description><![CDATA[Coming Soon ]]></description>
+</item>
+</channel>
+</rss>
